@@ -26,22 +26,6 @@
   url: /intro
   not_numbered: true
 
-# External link
-- title: GitHub repository
-  url: https://github.com/FINKI-Research-methodology-in-ICT/3Dream-Book-Filip
-  external: true
-  not_numbered: true
-
-# Adds a searchbar link
-- title: Search
-  search: true
-
-# Divider for meta-pages and content page
-- divider: true
-
-# Add a header and sample content section
-  
-
 # A chapter w/ a collection of sections beneath it
 
 - title: Demo code
