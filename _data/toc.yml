@@ -21,11 +21,6 @@
 #
 # See the links below for an example.
 
-# Top-level page
-- title: Home
-  url: /intro
-  not_numbered: true
-
 # A chapter w/ a collection of sections beneath it
 
 - title: Demo code
