@@ -28,7 +28,7 @@
 
 # External link
 - title: GitHub repository
-  url: https://github.com/jupyter/jupyter-book
+  url: https://github.com/FINKI-Research-methodology-in-ICT/3Dream-Book-Filip
   external: true
   not_numbered: true
 
@@ -40,10 +40,10 @@
 - divider: true
 
 # Add a header and sample content section
-- header: Demo textbook
+
 
 # A chapter w/ a collection of sections beneath it
 
-- title: Jupyter notebooks
+- title: Demo code
   url: /features/3Dream
   not_numbered: true
